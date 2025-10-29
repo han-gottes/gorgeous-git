@@ -14,7 +14,7 @@ Everything you need to make attention-grabbing, well-organized README files for 
  <summary>Helpful videos for making GitHub profile updates, including READMEs</summary>
  
 - Flashy profile building: https://www.youtube.com/watch?v=9A8sQZDRn5o
-- Basic, but impressive GitHub profile updates: https://www.youtube.com/watch?v=QDfLou004iE
+- Basic, but impressive profile updates: https://www.youtube.com/watch?v=QDfLou004iE
 </details>
 
 <details open>
