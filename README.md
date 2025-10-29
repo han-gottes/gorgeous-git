@@ -4,7 +4,8 @@
 
 Everything you need to make attention-grabbing, well-organized README files for project repos and your GitHub profile is included here. The file `sample.md` provides a sample README to make it easier to copy the syntax for future repos. It is written in Markdown and includes some basic text that produces fairly impressive results, such as dropdown menus (see below) and footnotes. I recommend using Visual Studio Code when writing your READMEs because it lets you preview as you go.
 
-<details open>Intro videos on README files</summary>
+<details open>
+ <summary>Intro videos on README files</summary>
  
 - The why and some basics: https://www.youtube.com/watch?v=E6NO0rgFub4&t=6s
 </details>
