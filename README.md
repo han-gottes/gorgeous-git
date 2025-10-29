@@ -1,4 +1,4 @@
-## A quick reference for making nice `README.md` files & using cool Markdown features
+### A quick reference for making nice `README.md` files & using cool Markdown features
 
 > Plenty of repos like this already exist, but this is just a guide for my labmates and me to update as we go.
 
